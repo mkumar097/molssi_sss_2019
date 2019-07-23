@@ -1,5 +1,10 @@
+# Manav Kumar
+# Last modified: July 23, 2019
+
 """
-geometry analysis functions
+
+Geometry Analysis Functions
+
 """
 
 import os
